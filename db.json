@@ -49,7 +49,29 @@
           "techStack": "C#, HTML, CSS, JS and others",
           "link": "https://esnadtakaful.com/",
           "image": "/EsnadTakaful.png",
-          "details": "The BeSure app has been carefully designed and implemented to be a trusted reference, providing step-by-step guidance and aiming to revolutionize the way people manage their health through a broad health network."
+          "details": "The BeSure app has been carefully designed and implemented to be a trusted reference, providing step-by-step guidance and aiming to revolutionize the way people manage their health through a broad health network.",
+          "resources": [],
+          "created_at": "2022-10-01T13:30:00Z"
+        },
+        {
+          "id": "2",
+          "name": "Learning Management System (LMS)",
+          "description": "A website that helps teachers make their work easier.",
+          "techStack": "PHP, Blade(HTML + Blade Syntax), CSS, JS and others",
+          "link": "",
+          "image": "/LMS.png",
+          "details": "This project aims to manage teachers' work by providing a place where they can view their courses, add and reuse posts, add assignments, add tests... especially access their old courses and more.",
+          "resources": [
+            { "src": "login.png", "title": "Login Page" },
+            { "src": "menu.png", "title": "Menu Page" },
+            { "src": "courses.png", "title": "View Courses" },
+            { "src": "course_details.png", "title": "Course Details" },
+            { "src": "post.png", "title": "Posts Section" },
+            { "src": "reuse_post.png", "title": "Reuse Post" },
+            { "src": "assignment.png", "title": "Assignments Section" },
+            { "src": "quizz.png", "title": "Quizzes Section" }
+          ],
+          "created_at": "2024-07-10T14:30:00Z"
         }
     ]
 }
