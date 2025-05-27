@@ -79,7 +79,7 @@
           "description": "Overcome manual log analysis with Manticore search and Logstash for quick analysis.",
           "techStack": "Logstash, ManticoreSearch, PHP, HTML, CSS, JS and others",
           "link": "",
-          "image": "/php_interface.png",
+          "image": "/Time_Consuming_Automated_System.png",
           "details": "This project aims to address this challenge by developing a powerful log search and analysis engine that leverages Manticore Search and Logstash. This automated system unifies logs, ensures real-time updates, and provides powerful search capabilities, making log management efficient and actionable.",
           "resources": [
             { "src": "log_management.png", "title": "Log analysis system architecture"},
