@@ -71,7 +71,7 @@
             { "src": "assignment.png", "title": "Assignments Section" },
             { "src": "quizz.png", "title": "Quizzes Section" }
           ],
-          "created_at": "2022-10-1T14:30:00Z"
+          "created_at": "2022-10-01T14:30:00Z"
         },
         {
           "id": "3",
@@ -79,7 +79,7 @@
           "description": "Overcome manual log analysis with Manticore search and Logstash for quick analysis.",
           "techStack": "Logstash, ManticoreSearch, PHP, HTML, CSS, JS and others",
           "link": "",
-          "image": "/log_management.png",
+          "image": "/php_interface.png",
           "details": "This project aims to address this challenge by developing a powerful log search and analysis engine that leverages Manticore Search and Logstash. This automated system unifies logs, ensures real-time updates, and provides powerful search capabilities, making log management efficient and actionable.",
           "resources": [
             { "src": "log_management.png", "title": "Log analysis system architecture"},
