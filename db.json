@@ -67,7 +67,7 @@
             { "src": "courses.png", "title": "View Courses" },
             { "src": "course_details.png", "title": "Course Details" },
             { "src": "post.png", "title": "Posts Section" },
-            { "src": "reuse_post.png", "title": "Reuse Post" },
+            { "src": "reuse_post.png", "title": "Reuse Post(s)" },
             { "src": "assignment.png", "title": "Assignments Section" },
             { "src": "quizz.png", "title": "Quizzes Section" }
           ],
